@@ -1,0 +1,40 @@
+.btn{
+    background-color: #0ca10cc4;
+    padding: 6px;
+    margin: 10px 10px;
+    border-radius: 50%;
+    display: float;
+    
+
+}
+.container{
+    background-color: #554b5e;
+    width: 300px;
+    height: auto;
+    margin: 0 auto;
+    margin-top: 50px;
+    border-radius: 5px;
+    border: 2px solid black;
+
+}
+.del{
+    background-color: red;
+    color: white;
+    margin-right: 0;
+}
+.edit{
+    background-color: yellow;
+}
+li{
+    background-color: rgb(105, 97, 97);
+    color: white;
+    padding: 3px;
+    margin-top: 3px;
+    border-radius: 2px;
+}
+body{
+    background-color: #e7daf5;
+}
+h1{
+    color: teal;background-color: gainsboro; padding: 8px; border-radius: 3px; text-align: center;
+}
